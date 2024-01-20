@@ -1,4 +1,4 @@
-# Lucas Vaz - GitHub Profile
+# Lucas Vaz
 
 Hey there! I'm Lucas Vaz, a passionate computer science student exploring the vast world of development. Welcome to my GitHub repository, where I share my coding adventures and projects.
 
